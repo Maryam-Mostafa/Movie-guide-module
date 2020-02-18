@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Movies>
+  <Movie>
+    <Id>15</Id>
+    <Title>the fault</Title>
+    <Director>lobna</Director>
+    <Year>1954</Year>
+    <Genres>Action,Comedy,</Genres>
+    <Rate>5</Rate>
+    <Poster>C:\Users\Muslim\Desktop\pics\coco.jpg</Poster>
+  </Movie>
+</Movies>

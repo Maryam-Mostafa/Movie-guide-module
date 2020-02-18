@@ -1,0 +1,31 @@
+E:\Movie Guide\Movie Guide\bin\Debug\Movie Guide.exe.config
+E:\Movie Guide\Movie Guide\bin\Debug\Movie Guide.exe
+E:\Movie Guide\Movie Guide\bin\Debug\Movie Guide.pdb
+E:\Movie Guide\Movie Guide\obj\Debug\Movie Guide.csprojResolveAssemblyReference.cache
+E:\Movie Guide\Movie Guide\obj\Debug\Movie_Guide.movie.resources
+E:\Movie Guide\Movie Guide\obj\Debug\Movie_Guide.Properties.Resources.resources
+E:\Movie Guide\Movie Guide\obj\Debug\Movie Guide.csproj.GenerateResource.Cache
+E:\Movie Guide\Movie Guide\obj\Debug\Movie Guide.exe
+E:\Movie Guide\Movie Guide\obj\Debug\Movie Guide.pdb
+E:\Movie Guide\Movie Guide\obj\Debug\Movie_Guide.Add.resources
+E:\Movie Guide\Movie Guide\obj\Debug\Movie_Guide.main.resources
+E:\Movie Guide\Movie Guide\obj\Debug\Movie_Guide.MainMenu.resources
+E:\Movie Guide\Movie Guide\obj\Debug\Movie_Guide.Search.resources
+E:\Movie Guide\Movie Guide\obj\Debug\Movie_Guide.Update.resources
+E:\Movie Guide\Movie Guide\obj\Debug\Movie_Guide.AddNewFile.resources
+E:\MovieGuide\MovieGuide\bin\Debug\Movie Guide.exe.config
+E:\MovieGuide\MovieGuide\bin\Debug\Movie Guide.exe
+E:\MovieGuide\MovieGuide\bin\Debug\Movie Guide.pdb
+E:\MovieGuide\MovieGuide\obj\Debug\Movie_Guide.Add.resources
+E:\MovieGuide\MovieGuide\obj\Debug\Movie_Guide.AddNewFile.resources
+E:\MovieGuide\MovieGuide\obj\Debug\Movie_Guide.main.resources
+E:\MovieGuide\MovieGuide\obj\Debug\Movie_Guide.MainMenu.resources
+E:\MovieGuide\MovieGuide\obj\Debug\Movie_Guide.movie.resources
+E:\MovieGuide\MovieGuide\obj\Debug\Movie_Guide.Properties.Resources.resources
+E:\MovieGuide\MovieGuide\obj\Debug\Movie_Guide.Search.resources
+E:\MovieGuide\MovieGuide\obj\Debug\Movie_Guide.Update.resources
+E:\MovieGuide\MovieGuide\obj\Debug\Movie Guide.csproj.GenerateResource.Cache
+E:\MovieGuide\MovieGuide\obj\Debug\Movie Guide.exe
+E:\MovieGuide\MovieGuide\obj\Debug\Movie Guide.pdb
+E:\MovieGuide\MovieGuide\obj\Debug\Movie Guide.csprojResolveAssemblyReference.cache
+E:\MovieGuide\MovieGuide\obj\Debug\Movie_Guide.movieDetails.resources

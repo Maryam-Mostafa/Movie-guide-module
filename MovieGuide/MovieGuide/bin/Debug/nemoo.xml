@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Movies>
+  <Movie>
+    <Id>3</Id>
+    <Title>inception</Title>
+    <Director>crestofer</Director>
+    <Year>2010</Year>
+    <Genres>Action,</Genres>
+    <Rate>9</Rate>
+    <Poster>C:\Users\Muslim\Desktop\pics\inception.jpg</Poster>
+  </Movie>
+  <Movie>
+    <Id>4</Id>
+    <Title>interstaller</Title>
+    <Director>crestofer</Director>
+    <Year>2014</Year>
+    <Genres>Drama,</Genres>
+    <Rate>9</Rate>
+    <Poster>C:\Users\Muslim\Desktop\pics\interstellar.jpg</Poster>
+  </Movie>
+  <Movie>
+    <Id>48</Id>
+    <Title>DANGAL</Title>
+    <Director>roben</Director>
+    <Year>2016</Year>
+    <Genres>Action,Drama,Fantasy,</Genres>
+    <Rate>8</Rate>
+    <Poster>C:\Users\Muslim\Desktop\pics\dangal.jpg</Poster>
+  </Movie>
+  <Movie>
+    <Id>15</Id>
+    <Title>your name</Title>
+    <Director>lobna</Director>
+    <Year>1954</Year>
+    <Genres>
+    </Genres>
+    <Rate>5</Rate>
+    <Poster>C:\Users\Muslim\Desktop\pics\your name.jpg</Poster>
+  </Movie>
+</Movies>

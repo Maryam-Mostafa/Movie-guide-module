@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Movies>
+  <Movie>
+    <Id>16</Id>
+    <Title>coco</Title>
+    <Director>lobna</Director>
+    <Year>1960</Year>
+    <Genres>
+    </Genres>
+    <Rate>2</Rate>
+    <Poster>C:\Users\Muslim\Desktop\pics\coco.jpg</Poster>
+  </Movie>
+</Movies>
